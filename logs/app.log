@@ -1,0 +1,740 @@
+2026-03-06 13:29:09 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 13:30:32 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 13:36:38 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 13:45:16 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 14:03:09 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 14:23:15 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 14:28:51 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 14:30:19 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 14:32:12 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 14:38:20 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 14:44:34 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 14:51:19 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 15:11:33 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 15:20:16 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 15:22:04 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 15:31:36 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 15:42:45 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 15:51:16 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 16:05:07 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 16:07:21 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 16:11:41 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 16:13:56 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 16:16:14 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 16:17:41 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 16:20:23 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 16:28:01 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 16:34:11 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 17:13:56 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 17:25:03 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:21:21 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:23:58 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:23:58 - longtv - ERROR - 启动时加载爬虫配置失败: 'JsonConfigManager' object has no attribute 'get_all_configs'
+2026-03-06 18:24:35 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:24:35 - longtv - ERROR - 启动时加载爬虫配置失败: 'JsonConfigManager' object has no attribute 'get_all_configs'
+2026-03-06 18:24:50 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:24:51 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:24:51 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:24:52 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:25:00 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:25:01 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:40:39 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:40:39 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:40:39 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:40:40 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:40:40 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:40:44 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:43:18 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:43:18 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:43:18 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:43:20 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:43:20 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:43:20 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:51:39 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:51:39 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:51:40 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:51:40 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:51:41 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:52:37 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:52:37 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:52:37 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:52:38 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:52:38 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:52:38 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:54:36 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:54:36 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 18:54:37 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:54:37 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 18:54:37 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:25:40 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:25:40 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:25:40 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:25:41 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:25:41 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:25:41 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:27:21 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:27:22 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:27:22 - longtv - ERROR - 自动加载爬虫失败: 骚火资源 - No module named 'app.base'
+2026-03-06 19:27:37 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:27:37 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:27:37 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:27:38 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:27:38 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:27:38 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:27:38 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:27:42 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:27:45 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 19:27:48 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 19:27:49 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:27:50 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:27:55 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 19:27:55 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 19:27:55 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 19:39:08 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:39:08 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:39:08 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:39:08 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:39:08 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:39:09 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:39:09 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:39:09 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:39:09 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:39:09 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:39:09 - longtv - ERROR - 自动加载爬虫失败: 骚火资源 - No module named 'app.base'
+2026-03-06 19:39:09 - longtv - ERROR - 自动加载爬虫失败: 骚火资源 - No module named 'app.base'
+2026-03-06 19:39:10 - longtv - ERROR - 自动加载爬虫失败: 骚火资源 - No module named 'app.base'
+2026-03-06 19:39:10 - longtv - ERROR - 自动加载爬虫失败: 骚火资源 - No module named 'app.base'
+2026-03-06 19:39:10 - longtv - ERROR - 自动加载爬虫失败: 骚火资源 - No module named 'app.base'
+2026-03-06 19:39:56 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:39:56 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:39:56 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:39:56 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:39:57 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:39:57 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:39:58 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:40:01 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:40:02 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 19:40:06 - longtv - ERROR - 自动加载爬虫失败: 骚火资源 - The read operation timed out
+2026-03-06 19:40:09 - longtv - ERROR - 自动加载爬虫失败: 骚火资源 - _ssl.c:1063: The handshake operation timed out
+2026-03-06 19:40:10 - longtv - ERROR - 自动加载爬虫失败: 骚火资源 - The read operation timed out
+2026-03-06 19:40:35 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:40:36 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:40:40 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 19:44:04 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:44:05 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:44:13 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 19:51:41 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:51:41 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:51:41 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 19:51:42 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:51:42 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:51:42 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 19:51:47 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 19:51:48 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 19:51:50 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 19:53:53 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:01:15 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:01:16 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:01:22 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:01:23 - longtv - ERROR - 自动加载爬虫失败: 天堂资源 - 'Spider' object has no attribute 'getCache'
+2026-03-06 20:09:26 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:09:28 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:09:31 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:09:33 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:14:01 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:14:02 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:14:12 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:14:14 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:16:45 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:16:48 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:16:59 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:17:22 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:22:28 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:22:29 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:22:39 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:22:41 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:22:43 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:22:45 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:22:54 - longtv - ERROR - 自动加载爬虫失败: 骚火资源 - _ssl.c:1063: The handshake operation timed out
+2026-03-06 20:22:56 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:22:59 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:23:05 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:23:19 - longtv - ERROR - 自动加载爬虫失败: 骚火资源 - _ssl.c:1063: The handshake operation timed out
+2026-03-06 20:23:21 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:23:52 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:23:53 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:24:05 - longtv - ERROR - 自动加载爬虫失败: 骚火资源 - _ssl.c:1063: The handshake operation timed out
+2026-03-06 20:24:07 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:27:48 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:27:50 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:27:55 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:27:57 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:40:26 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:40:27 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:40:31 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:40:34 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:40:45 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:40:46 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:40:51 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:40:54 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:40:56 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:40:57 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:41:06 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:41:08 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:41:10 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:41:12 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:41:20 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:41:22 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:41:24 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:41:25 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:41:33 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:41:35 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:41:37 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:41:38 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:41:42 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:41:44 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:41:47 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:41:48 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:42:27 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:42:29 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:47:25 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:47:26 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:47:38 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:47:41 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:47:43 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:47:45 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:47:51 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:47:53 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:47:55 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:47:56 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:48:03 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:48:05 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 20:48:18 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 20:48:19 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 20:48:23 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 20:48:25 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:03:06 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:03:07 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:03:12 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:03:15 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:03:54 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:03:55 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:04:03 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:04:05 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:04:22 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:04:24 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:04:34 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:04:36 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:05:21 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:05:22 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:05:30 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:05:32 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:06:09 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:06:10 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:06:16 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:06:18 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:07:04 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:07:05 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:07:11 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:07:13 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:07:36 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:07:37 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:07:46 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:07:48 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:18:51 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:18:52 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:18:57 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:19:00 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:31:38 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:31:39 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:31:58 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:33:08 - longtv - ERROR - 自动加载爬虫失败: 天堂资源 - not enough values to unpack (expected 3, got 0)
+2026-03-06 21:35:43 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:35:44 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:35:50 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:35:52 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:36:35 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:36:36 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:36:48 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:36:52 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:37:03 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:37:04 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:37:12 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:37:37 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:37:38 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:38:45 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:38:46 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:39:17 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:39:19 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:42:16 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:42:17 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:42:26 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:42:29 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:42:32 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:42:34 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:42:45 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:42:47 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:43:18 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:43:18 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:43:20 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:43:20 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:43:33 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:43:35 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:43:44 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:43:46 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:47:43 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:47:45 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:47:50 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:47:52 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:47:53 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:47:53 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:48:09 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:48:12 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:51:48 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:51:48 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:51:49 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:51:50 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:52:02 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:52:04 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:52:06 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:52:08 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:54:22 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:54:24 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:54:24 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:54:29 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:54:30 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:54:31 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:54:33 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:55:06 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:55:07 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:55:08 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:55:15 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:55:15 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:55:17 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:55:17 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:55:57 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:55:57 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:55:58 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:55:58 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:56:08 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:56:10 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:56:11 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:56:13 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:56:13 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:56:14 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:56:16 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:56:17 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:56:24 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:56:26 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:56:30 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:56:31 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:57:02 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:57:02 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:57:03 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:57:05 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:57:11 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:57:14 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:57:15 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:57:17 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 21:58:03 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 21:58:04 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 21:58:14 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 21:58:17 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 22:02:18 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 22:02:20 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 22:02:21 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 22:02:22 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 22:02:46 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 22:02:47 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 22:02:48 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 22:02:51 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 22:06:05 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 22:06:06 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 22:06:30 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 22:06:31 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 22:06:45 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 22:06:48 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 22:07:27 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 22:07:28 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 22:07:32 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 22:07:34 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 22:07:57 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 22:07:58 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 22:08:03 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 22:08:05 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 22:37:04 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 22:37:06 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 22:37:15 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 22:37:18 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 22:37:24 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 22:37:26 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 22:37:38 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 22:37:41 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 22:37:52 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 22:37:54 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-06 22:37:58 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 22:38:00 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 22:38:05 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 22:38:07 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 22:38:09 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 22:38:26 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 22:51:33 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 22:51:34 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 22:51:36 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 23:00:20 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 23:00:21 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 23:00:23 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 23:07:11 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 23:07:12 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 23:07:15 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 23:07:15 - longtv - ERROR - 自动加载爬虫失败: 花都资源 - [Errno 2] No such file or directory: 'C:\\Users\\chenxi\\Desktop\\LongTV-hw\\backend\\spiders/python/hd.py'
+2026-03-06 23:08:46 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 23:08:47 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 23:08:49 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 23:08:49 - longtv - ERROR - 自动加载爬虫失败: 花都资源 - [Errno 2] No such file or directory: 'C:\\Users\\chenxi\\Desktop\\LongTV-hw\\backend\\spiders/python/hd.py'
+2026-03-06 23:08:55 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 23:08:56 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 23:08:58 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 23:08:58 - longtv - ERROR - 自动加载爬虫失败: 花都资源 - No module named 'app.spider_manager'
+2026-03-06 23:10:48 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 23:10:49 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 23:10:52 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 23:10:52 - longtv - ERROR - 自动加载爬虫失败: 花都资源 - No module named 'app.spider_manager'
+2026-03-06 23:11:57 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 23:11:58 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 23:12:00 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 23:12:05 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-06 23:12:39 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 23:12:40 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 23:12:43 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 23:12:48 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-06 23:18:32 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 23:18:33 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 23:18:34 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 23:18:34 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 23:18:36 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 23:18:36 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 23:18:37 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-06 23:18:37 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-06 23:22:13 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 23:22:13 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 23:22:15 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 23:22:15 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 23:22:17 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 23:22:17 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 23:22:18 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-06 23:22:18 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-06 23:22:35 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 23:22:35 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 23:22:36 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 23:22:36 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 23:22:39 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 23:22:39 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-06 23:22:40 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 23:22:41 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-06 23:25:16 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-06 23:25:17 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-06 23:25:19 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-06 23:25:20 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-07 00:53:04 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-07 00:53:08 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-07 00:53:08 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-07 00:53:11 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-07 00:53:11 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-07 00:53:15 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-07 00:53:15 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-07 00:53:17 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-07 00:53:18 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-07 00:53:48 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-07 00:53:48 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-07 00:53:51 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-07 00:53:51 - longtv - INFO - 自动加载爬虫: 哇哇资源 (wawa_app)
+2026-03-07 00:53:54 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-07 00:53:54 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-07 00:53:57 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-07 00:53:57 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-07 00:54:00 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-07 00:54:00 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 13:37:21 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 13:37:22 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 13:37:24 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 13:37:25 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 13:46:24 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 13:46:25 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 13:46:27 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 13:46:28 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 13:48:53 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 13:48:54 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 13:48:56 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 13:48:57 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 13:53:15 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 13:53:15 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 13:53:16 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 13:53:16 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 13:53:19 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 13:53:19 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 13:53:20 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 13:53:20 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 15:32:48 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 15:32:48 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 15:32:51 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 15:32:51 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 15:32:55 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 15:32:58 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 15:32:59 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 15:33:02 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 15:38:47 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 15:38:47 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 15:38:51 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 15:38:51 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 15:38:55 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 15:38:55 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 15:38:58 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 15:38:58 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 15:39:53 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 15:39:53 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 15:39:56 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 15:39:56 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 15:40:00 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 15:40:00 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 15:40:03 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 15:40:03 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 15:40:50 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 15:40:50 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 15:40:53 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 15:40:53 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 15:40:57 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 15:40:57 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 15:41:00 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 15:41:00 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 15:41:32 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 15:41:32 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 15:41:35 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 15:41:35 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 15:41:39 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 15:41:39 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 15:41:42 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 15:41:42 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 15:52:06 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 15:52:06 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 15:52:09 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 15:52:09 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 15:52:13 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 15:52:16 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 15:52:22 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 15:52:24 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:01:34 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:01:34 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:01:38 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:01:38 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:01:42 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:01:42 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:01:45 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:01:45 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:12:45 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:12:45 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:12:48 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:12:48 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:12:53 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:12:53 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:12:56 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:12:56 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:20:39 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:20:39 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:20:43 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:20:43 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:20:47 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:20:47 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:20:49 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:20:56 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:20:56 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:20:59 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:20:59 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:21:03 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:21:04 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:21:06 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:21:07 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:25:50 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:25:50 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:25:53 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:25:53 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:25:57 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:25:57 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:26:00 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:26:00 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:27:00 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:27:00 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:27:03 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:27:03 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:27:07 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:27:08 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:27:10 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:27:11 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:27:45 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:27:45 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:27:48 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:27:48 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:27:52 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:27:52 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:27:55 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:27:55 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:31:48 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:31:48 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:31:51 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:31:51 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:31:55 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:31:55 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:31:58 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:31:58 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:32:30 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:32:30 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:32:33 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:32:33 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:32:37 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:32:39 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:32:46 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:32:48 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:33:01 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:33:01 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:33:05 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:33:05 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:33:09 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:33:09 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:33:13 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:33:13 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:33:38 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:33:38 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:33:41 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:33:41 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:33:45 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:33:46 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:33:48 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:33:49 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:41:09 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:41:09 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:41:12 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:41:12 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:41:16 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:41:16 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:41:19 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:41:19 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:42:13 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:42:13 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:42:17 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:42:17 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:42:21 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:42:21 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:42:24 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:42:24 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:42:37 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:42:37 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:42:40 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:42:40 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:42:44 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:42:44 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:42:47 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:42:47 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:43:20 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:43:20 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:43:23 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:43:23 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:43:27 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:43:27 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:43:30 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:43:30 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:44:07 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:44:07 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:44:10 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:44:10 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:44:14 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:44:14 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:44:18 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:44:18 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:50:07 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:50:07 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:50:10 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:50:10 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:50:14 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:50:14 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:50:17 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:50:17 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:51:02 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:51:02 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:51:05 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:51:05 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:51:09 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:51:09 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:51:12 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:51:12 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:51:39 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:51:39 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:51:42 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:51:42 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:51:46 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:51:46 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:51:49 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:51:49 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:51:57 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:51:57 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:52:00 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:52:01 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:52:04 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:52:05 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:52:08 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:52:08 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:52:10 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:52:10 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:52:13 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:52:13 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:52:17 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:52:17 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:52:20 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:52:20 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:52:43 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:52:43 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 16:52:46 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:52:46 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 16:52:50 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:52:51 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 16:52:53 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 16:52:53 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 21:09:27 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 21:09:28 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 21:09:31 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 21:09:31 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 21:33:45 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 21:33:46 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 21:33:49 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 21:33:50 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 21:47:30 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 21:47:31 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 21:47:33 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 21:47:34 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 21:47:47 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 21:47:48 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 21:47:50 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 21:47:51 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 21:50:50 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 21:50:51 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 21:50:53 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 21:50:54 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 21:51:04 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 21:51:05 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 21:51:07 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 21:51:08 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 21:51:09 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 21:51:10 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 21:51:12 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 21:51:13 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 21:52:46 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 21:52:48 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 21:52:50 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 21:52:51 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 21:52:52 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 21:52:53 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 21:52:55 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 21:52:56 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-08 22:01:54 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-08 22:01:55 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-08 22:01:57 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-08 22:01:58 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)

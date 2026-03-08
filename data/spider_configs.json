@@ -1,0 +1,35 @@
+[
+  {
+    "key": "saohuo",
+    "name": "骚火资源",
+    "api": "./spiders/python/saohuo.py",
+    "ext": "",
+    "jar": null,
+    "type": "python",
+    "enabled": true,
+    "proxy_enabled": false,
+    "proxy_url": null
+  },
+  {
+    "key": "tian",
+    "name": "天堂资源",
+    "api": "./spiders/python/tian.py",
+    "ext": "",
+    "jar": null,
+    "type": "python",
+    "enabled": true,
+    "proxy_enabled": false,
+    "proxy_url": null
+  },
+  {
+    "key": "hd",
+    "name": "花都资源",
+    "api": "./spiders/python/hd.py",
+    "ext": "",
+    "jar": null,
+    "type": "python",
+    "enabled": true,
+    "proxy_enabled": false,
+    "proxy_url": null
+  }
+]
