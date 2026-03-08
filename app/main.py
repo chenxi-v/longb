@@ -1,12 +1,17 @@
 """
 FastAPI 主应用
 """
+import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.config import settings
 from app.api import spider, data, proxy, config, smart_proxy
 from app.utils.logger import logger
 from app.json_config import JsonConfigManager
+
+# 强制设置智能代理URL（用于Vercel等serverless环境）
+if not os.getenv('SMART_PROXY_URL'):
+    os.environ['SMART_PROXY_URL'] = 'https://corspy.longz.cc.cd'
 
 
 def create_app() -> FastAPI:
