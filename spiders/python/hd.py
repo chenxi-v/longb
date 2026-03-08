@@ -45,6 +45,9 @@ class Spider(Spider):
         try:self.proxies = json.loads(extend)
         except:self.proxies = {}
         
+        # Worker 代理地址（用于绕过地区限制）
+        self.worker_proxy = "https://corspy.longz.cc.cd"
+        
         # 尝试动态获取最优域名，失败则使用备用域名
         try:
             self.hsot = self.gethost()
@@ -82,6 +85,23 @@ class Spider(Spider):
 
         pass
 
+    def proxy_get(self, url, timeout=30):
+        """通过 Worker 代理发送 GET 请求"""
+        try:
+            # 先尝试直接请求
+            response = self.session.get(url, timeout=timeout)
+            return response
+        except Exception as e:
+            # 如果直接请求失败，使用 Worker 代理
+            print(f"[hd] 直接请求失败，使用 Worker 代理: {e}")
+            try:
+                proxy_url = f"{self.worker_proxy}?targetUrl={url}"
+                response = self.session.get(proxy_url, timeout=timeout)
+                return response
+            except Exception as proxy_error:
+                print(f"[hd] Worker 代理也失败: {proxy_error}")
+                raise e
+
 
 
     pheader={
@@ -114,7 +134,7 @@ class Spider(Spider):
 
     def homeContent(self, filter):
 
-        data=self.getpq(self.session.get(self.hsot))
+        data=self.getpq(self.proxy_get(self.hsot))
 
         cdata=data('.stui-header__menu li')
 
@@ -330,7 +350,7 @@ class Spider(Spider):
 
         
 
-        data=self.getpq(self.session.get(url))
+        data=self.getpq(self.proxy_get(url))
         
         # 提取页数信息（格式：1/349）
         page_text = data('.stui-page .num').text() or ''
@@ -359,7 +379,7 @@ class Spider(Spider):
 
             url = f"{self.hsot}{url}"
 
-        data=self.getpq(self.session.get(url))
+        data=self.getpq(self.proxy_get(url))
 
         
 
@@ -461,7 +481,7 @@ class Spider(Spider):
 
     def searchContent(self, key, quick, pg="1"):
 
-        data=self.getpq(self.session.get(f"{self.hsot}/vodsearch/{key}----------{pg}---.html"))
+        data=self.getpq(self.proxy_get(f"{self.hsot}/vodsearch/{key}----------{pg}---.html"))
 
         return {'list':self.getlist(data('.stui-vodlist.clearfix li')),'page':pg}
 
@@ -477,7 +497,7 @@ class Spider(Spider):
 
                 url = f"{self.hsot}{id}"
 
-            data=self.getpq(self.session.get(url))
+            data=self.getpq(self.proxy_get(url))
 
             jstr=data('.stui-player script').eq(0).text()
 
