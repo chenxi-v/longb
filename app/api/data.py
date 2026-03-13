@@ -1,6 +1,7 @@
 """
 数据获取 API 接口
 """
+import os
 from fastapi import APIRouter, HTTPException
 from pydantic import BaseModel
 from typing import Optional, List, Dict
@@ -76,18 +77,24 @@ async def home_content(request: HomeRequest):
 
         # 如果需要使用代理，临时设置代理URL
         original_proxy_url = None
-        if request.use_proxy and spider_manager.spider_proxy_url:
-            if hasattr(spider, 'setSpiderProxyUrl'):
+        if request.use_proxy:
+            if hasattr(spider, '_spider_proxy_url'):
                 original_proxy_url = spider._spider_proxy_url
-                spider.setSpiderProxyUrl(spider_manager.spider_proxy_url)
+                # 从环境变量读取代理地址
+                proxy_url = os.getenv('SMART_PROXY_URL', '')
+                spider._spider_proxy_url = proxy_url if proxy_url else None
+        else:
+            if hasattr(spider, '_spider_proxy_url'):
+                original_proxy_url = spider._spider_proxy_url
+                spider._spider_proxy_url = ''  # 禁用代理
 
         try:
             data = spider.home_content(request.filter)
             return {"code": 0, "data": data}
         finally:
             # 恢复原始代理设置
-            if original_proxy_url is not None and hasattr(spider, 'setSpiderProxyUrl'):
-                spider.setSpiderProxyUrl(original_proxy_url)
+            if original_proxy_url is not None and hasattr(spider, '_spider_proxy_url'):
+                spider._spider_proxy_url = original_proxy_url
     except HTTPException:
         raise
     except Exception as e:
@@ -132,10 +139,16 @@ async def category_content(request: CategoryRequest):
 
         # 如果需要使用代理，临时设置代理URL
         original_proxy_url = None
-        if request.use_proxy and spider_manager.spider_proxy_url:
-            if hasattr(spider, 'setSpiderProxyUrl'):
+        if request.use_proxy:
+            if hasattr(spider, '_spider_proxy_url'):
                 original_proxy_url = spider._spider_proxy_url
-                spider.setSpiderProxyUrl(spider_manager.spider_proxy_url)
+                # 从环境变量读取代理地址
+                proxy_url = os.getenv('SMART_PROXY_URL', '')
+                spider._spider_proxy_url = proxy_url if proxy_url else None
+        else:
+            if hasattr(spider, '_spider_proxy_url'):
+                original_proxy_url = spider._spider_proxy_url
+                spider._spider_proxy_url = ''  # 禁用代理
 
         try:
             data = spider.category_content(
@@ -147,8 +160,8 @@ async def category_content(request: CategoryRequest):
             return {"code": 0, "data": data}
         finally:
             # 恢复原始代理设置
-            if original_proxy_url is not None and hasattr(spider, 'setSpiderProxyUrl'):
-                spider.setSpiderProxyUrl(original_proxy_url)
+            if original_proxy_url is not None and hasattr(spider, '_spider_proxy_url'):
+                spider._spider_proxy_url = original_proxy_url
     except HTTPException:
         raise
     except Exception as e:
@@ -188,10 +201,16 @@ async def detail_content(request: DetailRequest):
 
         # 如果需要使用代理，临时设置代理URL
         original_proxy_url = None
-        if request.use_proxy and spider_manager.spider_proxy_url:
-            if hasattr(spider, 'setSpiderProxyUrl'):
+        if request.use_proxy:
+            if hasattr(spider, '_spider_proxy_url'):
                 original_proxy_url = spider._spider_proxy_url
-                spider.setSpiderProxyUrl(spider_manager.spider_proxy_url)
+                # 从环境变量读取代理地址
+                proxy_url = os.getenv('SMART_PROXY_URL', '')
+                spider._spider_proxy_url = proxy_url if proxy_url else None
+        else:
+            if hasattr(spider, '_spider_proxy_url'):
+                original_proxy_url = spider._spider_proxy_url
+                spider._spider_proxy_url = ''  # 禁用代理
 
         try:
             data = spider.detail_content(request.ids)
@@ -229,8 +248,8 @@ async def detail_content(request: DetailRequest):
             return {"code": 0, "data": result}
         finally:
             # 恢复原始代理设置
-            if original_proxy_url is not None and hasattr(spider, 'setSpiderProxyUrl'):
-                spider.setSpiderProxyUrl(original_proxy_url)
+            if original_proxy_url is not None and hasattr(spider, '_spider_proxy_url'):
+                spider._spider_proxy_url = original_proxy_url
     except HTTPException:
         raise
     except Exception as e:
@@ -271,18 +290,24 @@ async def search_content(request: SearchRequest):
 
         # 如果需要使用代理，临时设置代理URL
         original_proxy_url = None
-        if request.use_proxy and spider_manager.spider_proxy_url:
-            if hasattr(spider, 'setSpiderProxyUrl'):
+        if request.use_proxy:
+            if hasattr(spider, '_spider_proxy_url'):
                 original_proxy_url = spider._spider_proxy_url
-                spider.setSpiderProxyUrl(spider_manager.spider_proxy_url)
+                # 从环境变量读取代理地址
+                proxy_url = os.getenv('SMART_PROXY_URL', '')
+                spider._spider_proxy_url = proxy_url if proxy_url else None
+        else:
+            if hasattr(spider, '_spider_proxy_url'):
+                original_proxy_url = spider._spider_proxy_url
+                spider._spider_proxy_url = ''  # 禁用代理
 
         try:
             data = spider.search_content(request.keyword, request.quick)
             return {"code": 0, "data": data}
         finally:
             # 恢复原始代理设置
-            if original_proxy_url is not None and hasattr(spider, 'setSpiderProxyUrl'):
-                spider.setSpiderProxyUrl(original_proxy_url)
+            if original_proxy_url is not None and hasattr(spider, '_spider_proxy_url'):
+                spider._spider_proxy_url = original_proxy_url
     except HTTPException:
         raise
     except Exception as e:

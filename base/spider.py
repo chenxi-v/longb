@@ -2,9 +2,11 @@
 """
 兼容层：适配TVBox风格的爬虫
 """
+import os
 from abc import abstractmethod
 from typing import Dict, List, Optional, Any
 import httpx
+import requests
 
 
 class Spider:
@@ -19,6 +21,7 @@ class Spider:
         self._client = httpx.Client(timeout=30.0)
         self._proxy_url: Optional[str] = None
         self._spider_proxy_url: Optional[str] = None
+        self._requests_session: Optional[requests.Session] = None
 
     def init(self, extend: str = "") -> None:
         """初始化爬虫"""
@@ -140,6 +143,57 @@ class Spider:
             spider_proxy_url: 爬虫代理URL
         """
         self._spider_proxy_url = spider_proxy_url
+
+    def getWorkerProxyUrl(self) -> str:
+        """
+        获取 Worker 代理 URL
+
+        Returns:
+            Worker 代理 URL，如果未设置则返回空字符串
+        """
+        if self._spider_proxy_url:
+            return self._spider_proxy_url
+        return os.getenv('SMART_PROXY_URL', '')
+
+    def proxyRequest(self, url: str, method: str = "GET", timeout: int = 30, 
+                     headers: Optional[Dict] = None, params: Optional[Dict] = None,
+                     data: Optional[Dict] = None, json: Optional[Dict] = None,
+                     **kwargs) -> requests.Response:
+        """
+        通过 Worker 代理发送请求
+
+        Args:
+            url: 请求URL
+            method: 请求方法 (GET/POST)
+            timeout: 超时时间
+            headers: 请求头
+            params: URL参数
+            data: 表单数据
+            json: JSON数据
+            **kwargs: 其他requests参数
+
+        Returns:
+            requests.Response对象
+        """
+        if self._requests_session is None:
+            self._requests_session = requests.Session()
+
+        worker_proxy = self.getWorkerProxyUrl()
+        if not worker_proxy:
+            raise ValueError("Worker 代理 URL 未设置")
+
+        proxy_url = f"{worker_proxy}?targetUrl={url}"
+        
+        if method.upper() == "POST":
+            return self._requests_session.post(
+                proxy_url, timeout=timeout, headers=headers,
+                params=params, data=data, json=json, **kwargs
+            )
+        else:
+            return self._requests_session.get(
+                proxy_url, timeout=timeout, headers=headers,
+                params=params, **kwargs
+            )
 
     def _apply_spider_proxy(self, url: str, method: str = "GET", **kwargs) -> httpx.Response:
         """
