@@ -113,6 +113,9 @@ class Spider(Spider):
         except:
             return ''
 
+    def getProxyUrl(self):
+        return f"proxy://{self.site_key}?"
+
     def getdid(self):
         did = self.getCache('did')
         if not did:

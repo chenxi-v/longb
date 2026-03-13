@@ -738,3 +738,37 @@
 2026-03-08 22:01:55 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
 2026-03-08 22:01:57 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
 2026-03-08 22:01:58 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-13 21:36:58 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-13 21:36:59 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-13 21:37:01 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-13 21:37:03 - longtv - INFO - 自动加载爬虫: 红薯资源 (hs)
+2026-03-13 21:37:09 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-13 21:37:09 - longtv - ERROR - 自动加载爬虫失败: 花都资源2 - No module named 'app.spider_manager'
+2026-03-13 21:53:37 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-13 21:53:39 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-13 21:53:39 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-13 21:53:40 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-13 21:53:45 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-13 21:53:47 - longtv - INFO - 自动加载爬虫: 红薯资源 (hs)
+2026-03-13 21:53:53 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-13 21:53:53 - longtv - ERROR - 自动加载爬虫失败: 花都资源2 - No module named 'app.spider_manager'
+2026-03-13 21:58:22 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-13 21:58:22 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-13 21:58:23 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-13 21:58:26 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-13 21:58:29 - longtv - INFO - 自动加载爬虫: 红薯资源 (hs)
+2026-03-13 21:58:35 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-13 21:58:35 - longtv - ERROR - 自动加载爬虫失败: 花都资源2 - No module named 'app.spider_manager'
+2026-03-13 22:16:09 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-13 22:16:09 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-13 22:16:10 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-13 22:16:13 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-13 22:16:17 - longtv - INFO - 自动加载爬虫: 红薯资源 (hs)
+2026-03-13 22:16:23 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-13 22:16:23 - longtv - ERROR - 自动加载爬虫失败: 花都资源2 - No module named 'app.spider_manager'
+2026-03-13 22:46:08 - longtv - INFO - LongTV Backend v1.0.0 启动成功
+2026-03-13 22:46:09 - longtv - INFO - 自动加载爬虫: 骚火资源 (saohuo)
+2026-03-13 22:46:11 - longtv - INFO - 自动加载爬虫: 天堂资源 (tian)
+2026-03-13 22:46:14 - longtv - INFO - 自动加载爬虫: 红薯资源 (hs)
+2026-03-13 22:46:19 - longtv - INFO - 自动加载爬虫: 花都资源 (hd)
+2026-03-13 22:46:19 - longtv - ERROR - 自动加载爬虫失败: 花都资源2 - No module named 'app.spider_manager'
