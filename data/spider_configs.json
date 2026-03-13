@@ -22,6 +22,17 @@
     "proxy_url": null
   },
   {
+    "key": "hs",
+    "name": "红薯资源",
+    "api": "./spiders/python/hs.py",
+    "ext": "",
+    "jar": null,
+    "type": "python",
+    "enabled": true,
+    "proxy_enabled": false,
+    "proxy_url": null
+  },
+  {
     "key": "hd",
     "name": "花都资源",
     "api": "./spiders/python/hd.py",
@@ -45,3 +56,4 @@
   }
 
 ]
+
