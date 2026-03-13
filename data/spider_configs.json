@@ -42,18 +42,6 @@
     "enabled": true,
     "proxy_enabled": false,
     "proxy_url": null
-  },
-  {
-    "key": "hd2",
-    "name": "花都资源2",
-    "api": "./spiders/python/huadu.py",
-    "ext": "",
-    "jar": null,
-    "type": "python",
-    "enabled": true,
-    "proxy_enabled": false,
-    "proxy_url": null
   }
-
 ]
 
