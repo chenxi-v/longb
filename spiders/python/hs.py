@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 小红薯 by @嗷呜
+# by @嗷呜
 import json
 import random
 import string
