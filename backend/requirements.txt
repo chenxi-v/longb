@@ -1,0 +1,25 @@
+# Web 框架
+fastapi==0.104.1
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# HTTP 客户端
+httpx==0.25.0
+requests==2.31.0
+
+# HTML 解析
+pyquery==2.0.0
+lxml==5.1.0
+
+# 加密解密
+pycryptodome==3.20.0
+
+# JavaScript 支持
+PyExecJS==1.5.1
+
+# 工具
+python-multipart==0.0.6
+python-dotenv==1.0.0
+
+# 注意: JPype1 已移除，Vercel serverless 环境不支持 JVM
+# 如需 JAR 爬虫支持，请使用 Docker 部署方案
